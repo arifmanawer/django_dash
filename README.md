@@ -27,7 +27,7 @@ cd django_dash/backend/chart_api
 3. Create virtual environment
 
 ```
-python -m venv venv
+python3 -m venv venv
 ```
 
 4. Activate virtual environment
