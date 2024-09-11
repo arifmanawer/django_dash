@@ -21,7 +21,7 @@ git clone https://github.com/arifmanawer/django_dash.git
 2. Navigate to backend
 
 ```
-cd backend/chart_api
+cd django_bash/backend/chart_api
 ```
 
 3. Create virtual environment
