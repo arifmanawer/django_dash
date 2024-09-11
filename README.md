@@ -21,7 +21,7 @@ git clone https://github.com/arifmanawer/django_dash.git
 2. Navigate to backend
 
 ```
-cd django_bash/backend/chart_api
+cd django_dash/backend/chart_api
 ```
 
 3. Create virtual environment
@@ -73,7 +73,7 @@ python manage.py runserver
 
 ## Installation/Setup
 
-1. Navigate to frontend from root folder:
+1. Navigate to frontend from root folder (django_dash):
 
 ```
 cd frontend/django_dash_front
